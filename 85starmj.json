@@ -1,0 +1,23 @@
+{
+  "name": "1985 Star Michael Jordan Card Grade 8",
+  "description": "A rare 1985 Star Michael Jordan trading card, graded 8, valued at $25,800.",
+  "image": "https://api.example.com/images/mj85starcard.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1985"
+    },
+    {
+      "trait_type": "Player",
+      "value": "Michael Jordan"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8"
+    },
+    {
+      "trait_type": "Value",
+      "value": "$25,800"
+    }
+  ]
+}
